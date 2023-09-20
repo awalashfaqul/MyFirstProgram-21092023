@@ -1,0 +1,15 @@
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 01/MyFirstProgram/MyFirstProgram/bin/Debug/net6.0/MyFirstProgram
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 01/MyFirstProgram/MyFirstProgram/bin/Debug/net6.0/MyFirstProgram.deps.json
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 01/MyFirstProgram/MyFirstProgram/bin/Debug/net6.0/MyFirstProgram.runtimeconfig.json
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 01/MyFirstProgram/MyFirstProgram/bin/Debug/net6.0/MyFirstProgram.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 01/MyFirstProgram/MyFirstProgram/bin/Debug/net6.0/MyFirstProgram.pdb
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 01/MyFirstProgram/MyFirstProgram/obj/Debug/net6.0/MyFirstProgram.csproj.AssemblyReference.cache
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 01/MyFirstProgram/MyFirstProgram/obj/Debug/net6.0/MyFirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 01/MyFirstProgram/MyFirstProgram/obj/Debug/net6.0/MyFirstProgram.AssemblyInfoInputs.cache
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 01/MyFirstProgram/MyFirstProgram/obj/Debug/net6.0/MyFirstProgram.AssemblyInfo.cs
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 01/MyFirstProgram/MyFirstProgram/obj/Debug/net6.0/MyFirstProgram.csproj.CoreCompileInputs.cache
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 01/MyFirstProgram/MyFirstProgram/obj/Debug/net6.0/MyFirstProgram.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 01/MyFirstProgram/MyFirstProgram/obj/Debug/net6.0/refint/MyFirstProgram.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 01/MyFirstProgram/MyFirstProgram/obj/Debug/net6.0/MyFirstProgram.pdb
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 01/MyFirstProgram/MyFirstProgram/obj/Debug/net6.0/MyFirstProgram.genruntimeconfig.cache
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 01/MyFirstProgram/MyFirstProgram/obj/Debug/net6.0/ref/MyFirstProgram.dll
